@@ -1,3 +1,1 @@
-# rest-api-ts
-
-A simple create post and authentication application built with Typescript, Express and MongoDB
+A simple authentication system built with Typescript, Express and MongoDB
